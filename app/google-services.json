@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504340372415",
+    "firebase_url": "https://idealweight-e381d.firebaseio.com",
+    "project_id": "idealweight-e381d",
+    "storage_bucket": "idealweight-e381d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504340372415:android:740bd2335065bf62e79f0a",
+        "android_client_info": {
+          "package_name": "com.bagus.idealweight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504340372415-k6fquoco82v3v9av3rt8mvftc7lo282l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bagus.idealweight",
+            "certificate_hash": "04538ec2c9d6d93adaf60ed9efa3d75e9f4b6c40"
+          }
+        },
+        {
+          "client_id": "504340372415-9793vali6uaf2j4h2d375jvb3rrg4chm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuozpKpocwWOCgZdQ528-3qPyNt2I7s8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504340372415-9793vali6uaf2j4h2d375jvb3rrg4chm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

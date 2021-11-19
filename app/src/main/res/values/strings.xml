@@ -1,0 +1,272 @@
+<resources>
+    <string name="app_name">IdealWeight</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="subtitle">Firstly, we need to know your weight, height and gender</string>
+    <string name="hello">Hello,</string>
+
+    <string name="idealweight">Your ideal weight: </string>
+    <string name="loseweight">Weight to lose: </string>
+    <string name="explanation">It means you have </string>
+    <string name="explanation2">calories to lose</string>
+    <string name="explanation3">We have some exercise plans for you to lose some weight!</string>
+    <string name="kg">Kg</string>
+    <string name="gender">Gender</string>
+    <string name="a" />
+    <string name="titik">...</string>
+    <string name="next">Next</string>
+    <string name="explanation4">The American College of Sports Medicine recommends a weekly 200 to 300 minutes of moderate-intensity cardio, or about 2,000 to 3,000 calories burned per week, to lose significant weight.</string>
+    <string name="easy">Easy</string>
+    <string name="easyexplanation">In this exercise program you will need to burn 0,25kg a week and you may reach your goal within </string>
+    <string name="medium">Medium</string>
+    <string name="mediumexplanation">Need more challenge? In this program your target is to lose 0,5kg per week for about</string>
+    <string name="hard">Hard</string>
+    <string name="hardexplanation">You need to go all out on this program, you are demanded to burn 0,75kg per week and you will see the result in the next</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="choose_your_level">CHOOSE YOUR LEVEL</string>
+
+    <string name="rep">All workouts above should be repeated 4 times</string>
+
+
+    <!--
+
+ *********** String for Easy Exercise ************
+
+ -->
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="sports_titles">
+        <item>Sit-Up</item>
+        <item>Push-Up</item>
+        <item>Crunches</item>
+        <item>Burpees</item>
+        <item>Hiking Move</item>
+        <item>Pull Up</item>
+        <item>Running Man</item>
+        <item>Burpees</item>
+        <item>Pushup</item>
+        <item>Sit Up</item>
+        <item>Boxing</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <!--
+
+ *********** String for Medium Exercise ************
+
+ -->
+
+    <array name="sports_images_medium">
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="sports_titles_medium">
+        <item>Sit-Up</item>
+        <item>Push-Up</item>
+        <item>Crunches</item>
+        <item>Burpees</item>
+        <item>Hiking Move</item>
+        <item>Pull Up</item>
+        <item>Running Man</item>
+        <item>Burpees</item>
+        <item>Pushup</item>
+        <item>Sit Up</item>
+        <item>Boxing</item>
+    </string-array>
+
+
+    *********** String for Hard Exercise ************
+
+    -->
+
+    <array name="sports_images_hard">
+        <item>@drawable/img_tennis</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="sports_titles_hard">
+        <item>Sit-Up</item>
+        <item>Push-Up</item>
+        <item>Crunches</item>
+        <item>Burpees</item>
+        <item>Hiking Move</item>
+        <item>Pull Up</item>
+        <item>Running Man</item>
+        <item>Burpees</item>
+        <item>Pushup</item>
+        <item>Sit Up</item>
+        <item>Boxing</item>
+    </string-array>
+
+
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Calculate Your Weight</string>
+    <string name="slide_1_desc">The easiest way to calculate your weight for weightloss.</string>
+
+    <string name="slide_2_title">Track It !</string>
+    <string name="slide_2_desc">Track your weightloss and workout easily.</string>
+
+    <string name="slide_3_title">Choose Your Workout</string>
+    <string name="slide_3_desc">You can choose your daily and personal workout for better result.</string>
+
+    <string name="slide_4_title">Best Recommendation</string>
+    <string name="slide_4_desc">We give the best recommendation for your weightloss plan !</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_register">signup</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="nama">nama</string>
+    <string name="nomor" />
+    <string name="Name">Name</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="Edit_Profil">Edit Profil</string>
+
+    <string-array name="spinnerGender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="spinnerUsia">
+        <item>Select Age</item>
+        <item>Teenage</item>
+        <item>Young Adult</item>
+        <item>Adult</item>
+    </string-array>
+
+    <string-array name="spinnerActivity">
+        <item>Select Workout Activity</item>
+        <item>Never</item>
+        <item>Sometimes</item>
+        <item>Often</item>
+    </string-array>
+
+    *********** String for Track Progress************
+
+    -->
+    <array name="track_image">
+        <item>@drawable/hephaestus</item>
+        <item>@drawable/gryphon</item>
+        <item>@drawable/achilles</item>
+        <item>@drawable/centaur</item>
+
+        <item>@drawable/minotaur</item>
+        <item>@drawable/pegasus</item>
+        <item>@drawable/medusa</item>
+        <item>@drawable/phoenix</item>
+
+        <item>@drawable/zeus</item>
+        <item>@drawable/poseidon</item>
+        <item>@drawable/apollo</item>
+        <item>@drawable/perseus</item>
+    </array>
+
+    <string-array name="track_title">
+        <item>Hephaestus</item>
+        <item>Gryphon</item>
+        <item>Achilles</item>
+        <item>Centaur</item>
+
+        <item>Minotaur</item>
+        <item>Pegasus</item>
+        <item>Medusa</item>
+        <item>Phoenix</item>
+
+        <item>Zeus</item>
+        <item>Poseidon</item>
+        <item>Apollo</item>
+        <item>Perseus</item>
+    </string-array>
+
+    <string-array name="track_category">
+        <item>Easy</item>
+        <item>Easy</item>
+        <item>Easy</item>
+        <item>Easy</item>
+
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+
+        <item>Hard</item>
+        <item>Hard</item>
+        <item>Hard</item>
+        <item>Hard</item>
+
+    </string-array>
+
+    <string-array name="track_calories">
+        <item>1776</item>
+        <item>1680</item>
+        <item>1856</item>
+        <item>1975</item>
+
+        <item>3580</item>
+        <item>3790</item>
+        <item>3654</item>
+        <item>3935</item>
+
+        <item>5981</item>
+        <item>5869</item>
+        <item>5687</item>
+        <item>5798</item>
+
+    </string-array>
+
+
+</resources>
+
+
